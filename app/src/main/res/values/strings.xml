@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2_Act</string>
+    <string name="click_me">Нажми меня</string>
+    <string name="next">Вперед</string>
+    <string name="prev">Назад</string>
+    <string name="to_first">На первую</string>
+</resources>
